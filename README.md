@@ -9,11 +9,11 @@ This bot is built for **serious traders** looking to gain an edge in the Solana 
 
 ## 🔥 Key Features
 
- **Live Transaction Monitoring** – Real-time tracking of Solana transactions via **gRPC (Yellowstone Geyser)**.
- **Sniping on Raydium AMM** – Execute high-speed trades based on market conditions.
- **Advanced Filtering** – Identify relevant transactions with precision.
- **Instant Trade Execution** – No delays, no hesitation.
- **Smart Order Processing** – Optimize trade execution based on real-time data.
+ - **Live Transaction Monitoring** – Real-time tracking of Solana transactions via **gRPC (Yellowstone Geyser)**.
+ - **Sniping on Raydium AMM** – Execute high-speed trades based on market conditions.
+ - **Advanced Filtering** – Identify relevant transactions with precision.
+ - **Instant Trade Execution** – No delays, no hesitation.
+ - **Smart Order Processing** – Optimize trade execution based on real-time data.
 
 ---
 
