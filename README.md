@@ -21,19 +21,19 @@ This bot is built for **serious traders** looking to gain an edge in the Solana 
 
 The **gRPC framework** combined with **Yellowstone Geyser** gives this bot an advantage over traditional REST-based solutions by offering:
 
-🚀 **Ultra-low Latency** – Real-time trade execution without delay.
-🔎 **High-Frequency Data Streaming** – Get instant insights on transactions, liquidity pools, and token movements.
-💡 **Efficient Data Processing** – Parse large amounts of data efficiently for trade signal analysis.
-📊 **Optimized for Speed & Accuracy** – Reduce false signals and enhance trade precision.
+- 🚀 **Ultra-low Latency** – Real-time trade execution without delay.
+- 🔎 **High-Frequency Data Streaming** – Get instant insights on transactions, liquidity pools, and token movements.
+- 💡 **Efficient Data Processing** – Parse large amounts of data efficiently for trade signal analysis.
+- 📊 **Optimized for Speed & Accuracy** – Reduce false signals and enhance trade precision.
 
 ---
 
 ## 🎯 How the Sniper Bot Works
 
-1️⃣ **Monitor Transactions** – The bot continuously scans Solana's **live transaction feed** via gRPC.
-2️⃣ **Filter & Analyze Data** – It processes transactions to detect potential sniping opportunities.
-3️⃣ **Trigger Instant Trade Execution** – Once a profitable trade is detected, the bot executes with **no delay**.
-4️⃣ **Track & Optimize Performance** – Monitor trades and adjust strategies based on real-time results.
+- **Monitor Transactions** – The bot continuously scans Solana's **live transaction feed** via gRPC.
+- **Filter & Analyze Data** – It processes transactions to detect potential sniping opportunities.
+- **Trigger Instant Trade Execution** – Once a profitable trade is detected, the bot executes with **no delay**.
+- **Track & Optimize Performance** – Monitor trades and adjust strategies based on real-time results.
 
 ---
 
@@ -48,9 +48,9 @@ Ensure you have the following installed:
 
 ### Installation Steps
 ```sh
-git clone https://github.com/your-username/solana-grpc-sniper-bot.git
-cd solana-grpc-sniper-bot
-npm install
+- git clone https://github.com/your-username/solana-grpc-sniper-bot.git
+- cd solana-grpc-sniper-bot
+- npm install
 ```
 
 ### Running the Bot
@@ -62,10 +62,10 @@ npm run start
 
 ## 🛣️ Roadmap
 
-✔️ **Phase 1** – Core trading engine & gRPC integration (✅ Completed)
-✔️ **Phase 2** – Multi-platform support (✅ Completed)
-🔜 **Phase 3** – AI-enhanced trade signals & analytics (Coming Soon)
-🔜 **Phase 4** – Mobile app integration (Planned for Q2 2025)
+- **Phase 1** – Core trading engine & gRPC integration (✅ Completed)
+- **Phase 2** – Multi-platform support (✅ Completed)
+- **Phase 3** – AI-enhanced trade signals & analytics (Coming Soon)
+- **Phase 4** – Mobile app integration (Planned for Q2 2025)
 
 ---
 
