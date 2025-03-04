@@ -1,70 +1,77 @@
 # Solana gRPC Sniper Bot
 
-Welcome to the **gRPC Sniper Bot for PumpFun, Raydium, Meteora**, and more - your ultimate trading assistant designed to give you a competitive edge in the fast-paced world of cryptocurrency trading. Leveraging advanced gRPC technology, our bot is engineered to analyze market trends in real time and execute trades with lightning speed. Whether you're a seasoned trader or just starting, our bot is here to elevate your trading game!
+## 🚀 Introduction
+The **Solana gRPC Sniper Bot** is a cutting-edge, high-speed trading tool designed for **PumpFun, Raydium, Meteora**, and more. Using the **Yellowstone Geyser gRPC** protocol, the bot continuously monitors live transactions, helping traders identify opportunities and execute trades at lightning speed.
+
+This bot is built for **serious traders** looking to gain an edge in the Solana DeFi ecosystem by leveraging **real-time market insights** and **automated execution**.
 
 ---
 
-### **Contact Us:**
+## 🔥 Key Features
 
-📧 **Email:** [cashblaze129@gmail.com](mailto:cashblaze129@gmail.com)  
-📱 **Telegram:** [@cashblaze127](https://t.me/cashblaze127)  
-💬 **Discord:** [@cashblaze127](https://discord.com/users/cashblaze127)  
-
-🌐 **Social Links:**  
-
-🐦 **X (formerly Twitter):** [@solbotservice](https://x.com/solbotservice)  
-🐙 **GitHub:** [solana-bot-service](https://github.com/solana-bot-service)  
-📱 **Telegram Channel:** [@solana_bot_service](https://t.me/solana_bot_service)
+✅ **Live Transaction Monitoring** – Real-time tracking of Solana transactions via **gRPC (Yellowstone Geyser)**.
+✅ **Sniping on Raydium AMM** – Execute high-speed trades based on market conditions.
+✅ **Advanced Filtering** – Identify relevant transactions with precision.
+✅ **Instant Trade Execution** – No delays, no hesitation.
+✅ **Smart Order Processing** – Optimize trade execution based on real-time data.
 
 ---
 
-## Features of Our Bot
+## ⚡ Why gRPC + Yellowstone?
 
-- Real-time transaction monitoring using Yellowstone Geyser gRPC
-- Focused on **Raydium AMM** trades
-- High-performance transaction parsing and filtering
-- Detailed trade information including:
-  - Transaction signatures
-  - Token contract addresses
-  - Pool information
-  - Trade amounts
-  - Wallet addresses
+The **gRPC framework** combined with **Yellowstone Geyser** gives this bot an advantage over traditional REST-based solutions by offering:
+
+🚀 **Ultra-low Latency** – Real-time trade execution without delay.
+🔎 **High-Frequency Data Streaming** – Get instant insights on transactions, liquidity pools, and token movements.
+💡 **Efficient Data Processing** – Parse large amounts of data efficiently for trade signal analysis.
+📊 **Optimized for Speed & Accuracy** – Reduce false signals and enhance trade precision.
 
 ---
 
-## gRPC with Yellowstone
+## 🎯 How the Sniper Bot Works
 
-The **Yellowstone Geyser gRPC** interface enhances our sniper bot's capabilities by providing high-throughput access to real-time Solana network data. With its robust architecture, our bot can swiftly gather and process vast amounts of transaction data, giving traders a strategic advantage. 
-
-### How It Works:
-
-1. **Real-Time Data Streaming**: Leveraging the Yellowstone Geyser, the bot continuously streams transaction data to ensure that you never miss critical trading opportunities.
-  
-2. **Efficient Data Handling**: By using gRPC, the bot ensures low-latency communication, allowing for faster response times and more effective trade execution.
-
-3. **Optimized Resource Utilization**: The gRPC protocols facilitate efficient bandwidth usage, enabling seamless interaction with multiple market sources without lag.
-
-4. **Enhanced Signal Accuracy**: By processing high volumes of data from the Yellowstone Geyser, the bot can generate more accurate trading signals, optimizing your strategy and increasing profitability.
+1️⃣ **Monitor Transactions** – The bot continuously scans Solana's **live transaction feed** via gRPC.
+2️⃣ **Filter & Analyze Data** – It processes transactions to detect potential sniping opportunities.
+3️⃣ **Trigger Instant Trade Execution** – Once a profitable trade is detected, the bot executes with **no delay**.
+4️⃣ **Track & Optimize Performance** – Monitor trades and adjust strategies based on real-time results.
 
 ---
 
-## How It Operates
+## 📌 Setup & Installation
 
-Our gRPC Sniper Bot communicates with the PumpFun trading platform via fast and efficient gRPC protocols. Here's how it operates:
+### Prerequisites
+Ensure you have the following installed:
+- **Node.js & npm**
+- **TypeScript**
+- **Solana CLI**
+- **gRPC Libraries**
 
-- **Data Collection**: The bot aggregates real-time data from various market sources.
-- **Signal Processing**: Utilizing proprietary algorithms, it identifies trading signals based on market conditions.
-- **Order Execution**: Once a signal is confirmed, the bot executes trades instantly across your connected accounts.
-- **Performance Tracking**: It monitors and analyzes trading performance to continually optimize its strategy.
+### Installation Steps
+```sh
+git clone https://github.com/your-username/solana-grpc-sniper-bot.git
+cd solana-grpc-sniper-bot
+npm install
+```
+
+### Running the Bot
+```sh
+npm run start
+```
 
 ---
 
-## Roadmap
+## 🛣️ Roadmap
 
-- **Q1 2025**: Implement new trading strategies based on user feedback.
-- **Q2 2025**: Mobile app release for on-the-go trading.
-- **Q3 2025**: Expand compatibility to other trading platforms.
+✔️ **Phase 1** – Core trading engine & gRPC integration (✅ Completed)
+✔️ **Phase 2** – Multi-platform support (✅ Completed)
+🔜 **Phase 3** – AI-enhanced trade signals & analytics (Coming Soon)
+🔜 **Phase 4** – Mobile app integration (Planned for Q2 2025)
 
 ---
 
-Elevate your trading strategies with the **Solana gRPC Sniper Bot** today! 🚀
+## 📢 Contact
+📢 **Telegram:** [@dogewhiz](https://t.me/dogewhiz)
+
+---
+
+Take control of your trading and **snipe with precision** using the **Solana gRPC Sniper Bot**! ⚡🔥
